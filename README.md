@@ -3,11 +3,10 @@
 Computer Science student building web apps.
 
 ## Projects
-
-- **[King Fahad Library Registration System](https://github.com/rose12wail-cpu/king-fahad-library)** 
-- **[JavaJam Coffee House](https://github.com/rose12wail-cpu/JavaJam_project)**
 -  **[Currency Converter](https://rose12wail-cpu.github.io/currency-converter/)** 
 - **[Timer](https://rose12wail-cpu.github.io/timer/)**
+- **[King Fahad Library Registration System](https://github.com/rose12wail-cpu/king-fahad-library)** 
+- **[JavaJam Coffee House](https://github.com/rose12wail-cpu/JavaJam_project)**
 
 ## Tools
 
